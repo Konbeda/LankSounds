@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.01.10.00">
-    <object class="ParameterPreset" id="{7ac6d855-075d-454c-a46a-24f728cff9b5}">
-        <property name="name">
-            <value>Equipamento</value>
-        </property>
-        <relationship name="folder">
-            <destination>{90c8eae7-2af3-44c7-b943-624edd8f738a}</destination>
-        </relationship>
-        <relationship name="parameter">
-            <destination>{22d26723-b129-4f96-810e-2dd0bb0cbfbc}</destination>
-        </relationship>
-    </object>
-    <object class="GameParameter" id="{22d26723-b129-4f96-810e-2dd0bb0cbfbc}">
-        <property name="maximum">
-            <value>3</value>
-        </property>
-        <property name="initialValue">
-            <value>0</value>
-        </property>
-    </object>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{7ac6d855-075d-454c-a46a-24f728cff9b5}">
+		<property name="name">
+			<value>Equipamento</value>
+		</property>
+		<relationship name="folder">
+			<destination>{90c8eae7-2af3-44c7-b943-624edd8f738a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{22d26723-b129-4f96-810e-2dd0bb0cbfbc}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{22d26723-b129-4f96-810e-2dd0bb0cbfbc}">
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
 </objects>

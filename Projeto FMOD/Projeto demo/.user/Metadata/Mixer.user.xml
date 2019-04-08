@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.01.10.00">
-    <object class="Mixer" id="{60355e5f-ac0e-4ec6-af7b-af0291cf79b6}">
-        <relationship name="vca">
-            <destination>{c38272a5-f833-4a9d-bbc6-47f074051955}</destination>
-        </relationship>
-    </object>
+<objects serializationModel="Studio.02.00.00">
+	<object class="Mixer" id="{60355e5f-ac0e-4ec6-af7b-af0291cf79b6}">
+		<relationship name="vca">
+			<destination>{c38272a5-f833-4a9d-bbc6-47f074051955}</destination>
+		</relationship>
+	</object>
 </objects>
